@@ -1,0 +1,7 @@
+html, body, #mainStage{
+    height: 99%;
+}
+
+#mainStage {
+    user-select: none;
+}
