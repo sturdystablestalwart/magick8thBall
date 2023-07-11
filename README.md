@@ -9,3 +9,5 @@ I've used HTML, JS, CSS.
 
 How to set it up:
 Download files and open the HTML.
+
+Link: https://sturdystablestalwart.github.io/magick8thBall/
